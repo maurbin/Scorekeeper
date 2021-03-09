@@ -6,4 +6,6 @@
     <string name="txt_t1">Team 1</string>
     <string name="count1">0</string>
     <string name="count2">0</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
 </resources>
